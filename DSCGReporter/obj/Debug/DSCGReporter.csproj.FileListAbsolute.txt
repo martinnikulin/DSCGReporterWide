@@ -1,0 +1,12 @@
+G:\Projects\DSCGReporterWide\bin\Debug\DSCGReporter.exe.config
+G:\Projects\DSCGReporterWide\bin\Debug\DSCGReporter.exe
+G:\Projects\DSCGReporterWide\bin\Debug\DSCGReporter.pdb
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.DialogForm.resources
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.MainForm.resources
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.Properties.Resources.resources
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.csproj.GenerateResource.cache
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.exe.licenses
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.csproj.CoreCompileInputs.cache
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.csproj.CopyComplete
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.exe
+G:\Projects\GitHub\DSCGReporterWide\DSCGReporter\obj\Debug\DSCGReporter.pdb
